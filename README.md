@@ -2,6 +2,8 @@
 # Viva la pasta
 <br>
 Signor padrone della locanda, Se ci fosse una umile ciotola di pasta la desidererei nella mia bocca;
+![image](https://github.com/user-attachments/assets/6a1ea95f-aeed-4dbb-8c45-42215c15eb30)
+
 10 domande sulla pasta:
 Qual è l'origine della pasta? La pasta è davvero un'invenzione italiana o esistono tracce di pasta già in altre culture?
 
